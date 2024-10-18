@@ -92,8 +92,41 @@ Y en el lenguaje compilado, el error lo muestra a la hora de compilar, lo cual n
 *Por responder*  
 
 **4.2.2. ¿Qué ventajas y desventajas encontraron en cada uno?**  
-El lenguaje de alto nivel es más cercano al humano y tienen muchas funcionalidades que ayudan al desarrollador, aunque tienen menos control sobre el sistema. Mientras que el de bajo nivel es más cercano a la máquina y ofrece un mejor control y eficiencia, pero es más complejo a la hora de escribir y comprender.
+El lenguaje de alto nivel es más cercano al humano y tienen muchas funcionalidades que ayudan al desarrollador, aunque tienen menos control sobre el sistema. Mientras que el de bajo nivel es más cercano a la máquina y ofrece un mejor control y eficiencia, pero es más complejo a la hora de escribir y comprender.  
 
+#### 4.3. Tercera parte
+**4.3.1. ¿Cómo funciona la organización de datos en Java usando objetos y métodos?**  
+El ódigo es organizado en objetos, que realmente son instancias de clases. Los objetos también encapsulan datos y comportamientos.
+
+**4.3.2. ¿Cómo es diferente trabajar en un enfoque funcional en Python, usando solo funciones puras?**
+*Por responder* 
+
+#### 4.4. Reflexión final
+**4.4.1. ¿Qué lenguajes se sintieron más fáciles de usar? ¿Por qué?**  
+Principalmente Python, JavaScript, Ruby, PHP, por ser interpretados, porque aunque sean más lentos por ir línea a línea, son más sencillos a la hora de probar al no tener que compilar.  
+
+**4.4.2. ¿En qué casos es preferible usar un lenguaje compilado frente a uno interpretado?**  
+*Por responder* 
+
+**4.4.3. ¿Cuándo es mejor usar un lenguaje de alto nivel en lugar de uno de bajo nivel?**  
+Para la creación de progamas básicos, es mejor un lenguaje de alto nivel, ya que son más sencillos para el desarollador. A la hora de crear programas más complejos es  mejor el de bajo nivel ya que se puede adaptar y optimizar de mejor manera el rendimiento.
+
+**4.4.4. ¿Cómo se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?**  
+*Por responder* 
+
+### 5. Herramientas de desarrollo
+#### 5.1. Primera parte¶
+**5.1.1. ¿Qué hace cada una de las herramientas?**
+
+**5.1.2. ¿Qué tipo de tareas facilita?**
+
+**5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?**
+
+**5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?**
+
+**5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?**
+
+**5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?**
 
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
